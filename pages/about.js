@@ -1,7 +1,7 @@
 import Layout from "../components/layout"
 export default () => (
   <Layout>
-    <div>About us</div>
+    <div>About us yep</div>
   </Layout>
 
 )
